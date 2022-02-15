@@ -1,0 +1,6 @@
+framework module Pods_TawkDevTest {
+  umbrella header "Pods-TawkDevTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
